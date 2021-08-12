@@ -48,7 +48,7 @@ export default function PostPreview({ post }: PostPreviewProps) {
             <span>Wanna continue reading?</span>
             <Link href="/">
               <>
-                <a href="/">Subscribe now</a> 🤗
+                <a href="">Subscribe now</a> 🤗
               </>
             </Link>
           </div>
